@@ -2,28 +2,6 @@
 
 95가지 알고리즘 문제 풀이로 완성하는 코딩 테스트
 
-★ 안내: 2023년 9월, [《자바 알고리즘 인터뷰 with 코틀린》](https://github.com/onlybooks/java-algorithm-interview) 신간이 출간되었습니다!
-
-<img src="http://docs.likejazz.com/images/2020/book-cover.jpg" width="40%">
-
-《파이썬 알고리즘 인터뷰》는 다음 판매처에서 구매하실 수 있습니다.
-- [교보문고](https://bit.ly/3feaYxi)
-- [YES24](https://bit.ly/3iGw8Gw)
-- [알라딘](http://aladin.kr/p/2fU2N)
-- [인터파크](https://bit.ly/3f9SyOg)
-
-및 전국 교보문고 매장
-
-★ 정오표: https://www.onlybook.co.kr/entry/algorithm-interview-errata  
-★ 도서정보: https://www.onlybook.co.kr/entry/algorithm-interview
-
-★ YouTube: https://www.youtube.com/watch?v=fNyGHpSWhTA
-
-☆ 학교나 학원에서 강의를 진행하시는 교수님/강사님께 제공 가능한 이 책의 강의 교안 자료가 준비되어 있습니다. (1) 성함, 연락처 (2) 강의처 (3) 강의 교과목 (4) 간단한 강의계획 등을 정리하셔서 support@onlybook.co.kr 이메일로 보내주십시오. 내용 검토 후 제공해드리겠습니다.
-
-★ 참고: 《자바 알고리즘 인터뷰 with 코틀린》 https://github.com/onlybooks/java-algorithm-interview
-
-![마인드맵](https://user-images.githubusercontent.com/1250095/86745916-a62e9a00-c075-11ea-9aa5-8455e2527f87.png)
 
 ## 문제 풀이
 | 번호 | 제목 | 난이도 | 장 | 풀이 코드 |
